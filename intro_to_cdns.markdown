@@ -89,7 +89,7 @@ Content-Type: text/html; charset=utf-8
 X-Runtime: 0.020358
 ```
 
-- `max-age=1800`: Cache this page for 1800 seconds (1 hour)
+- `max-age=1800`: Cache this page for 1800 seconds (30 mins)
 - `public`: Hey men in the middle, feel free to cache this as well
 
 ---
